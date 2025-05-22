@@ -1,2 +1,2 @@
-# MSD-urban-Dictionary
- You can copy the links of the programs and put them into web app maker in AOS.
+Urban Dictionary is a crowdsourced English-language online dictionary for slang words and phrases. The website was founded in 1999 by Aaron Peckham. Originally, Urban Dictionary was intended as a dictionary of slang or cultural words and phrases, not typically found in standard English dictionaries, but it is now used to define any word, event, or phrase (including sexually explicit content). Words or phrases on Urban Dictionary may have multiple definitions, usage examples, and tags. As of 2014, the dictionary contains over seven million definitions, while around 2,000 new entries were being added daily. Urban Dictionary has also become a repository for bigoted postings.
+This Website is a port of Urban Dictionary.
